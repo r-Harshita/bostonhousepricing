@@ -1,0 +1,7 @@
+Flask
+sklearn
+pandas
+numpy
+matplotlib      #pip install -r requirements.txt
+                #git config --global user.name "Harshita Raashi"
+                #git config --global user.email "harshita1nov@gmail.com"
